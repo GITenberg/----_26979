@@ -1,0 +1,27 @@
+_repo: '----_26979'
+_version: 0.1.0
+alternative_title: Hai Dao Suan Jing
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Liu, Hui, active 3rd century-4th century
+    alias: 劉徽
+    gutenberg_agent_id: '32384'
+    url: http://www.gutenberg.org/2009/agents/32384
+description: ''
+gutenberg_issued: '2008-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26979'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QA'
+- !lcsh 'Arithmetic -- Early works to 1900'
+- !lcc 'AC'
+title: 海島算經
+url: http://www.gutenberg.org/ebooks/26979
